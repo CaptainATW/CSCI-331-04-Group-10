@@ -8,7 +8,8 @@ We are building a Traffic Sign Detection System using computer vision + machine 
 
 ## How It's Made:
 
-**Data used:** 
+**Data used:** https://www.kaggle.com/datasets/pkdarabi/cardetection/data
+
 **Tech used:** Python, Google Colab, 
 
 ## Optimizations
